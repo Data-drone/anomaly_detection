@@ -4,6 +4,10 @@ A repo to explore and apply anomaly detection in spark
 
 # Sections
 
+0 Getting Started
+  - Testing out basic data munging in Spark
+  - Testing out window functions / UDFs and UDAFs
+   
 1 probabilistic and statistical methods
   - Probabilistic Tail Inequalities
 
